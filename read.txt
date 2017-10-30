@@ -1,3 +1,5 @@
 1st
 2nd
 3rd
+Git has a mutable index called stage.
+Git tracks changes.
