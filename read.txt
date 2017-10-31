@@ -3,3 +3,10 @@
 3rd
 Git has a mutable index called stage.
 Git tracks changes.
+<<<<<<< HEAD
+Creating a branch is quick and simple.
+=======
+Creating a branch is quick and simple.
+>>>>>>> feature1
+Try '--no-ff"
+Try push to remote
