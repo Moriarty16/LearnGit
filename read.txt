@@ -9,3 +9,4 @@ Creating a branch is quick and simple.
 Creating a branch is quick and simple.
 >>>>>>> feature1
 Try '--no-ff"
+Try push to remote
